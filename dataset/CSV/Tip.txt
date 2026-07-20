@@ -1,10 +1,10 @@
 ```
-LUCAS__2015_csv_file：https://ec.europa.eu/eurostat/web/lucas/overview
+LUCAS:To access the LUCAS topsoil dataset (ground truth), visit: [LUCAS Topsoil Dataset](https://esdac.jrc.ec.europa.eu/content/topsoil-physical-properties-europe-based-lucas-topsoil-data)
 
 
 
 
-RaCA_csv_file:https://www.nrcs.usda.gov/resources/data-and-reports/rapid-carbon-assessment-raca
+RaCA:To access the RaCA dataset (ground truth), visit: [RaCA Dataset](https://www.nrcs.usda.gov/resources/data-and-reports/rapid-carbon-assessment-raca)
 
 
 
