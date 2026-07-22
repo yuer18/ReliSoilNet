@@ -59,11 +59,9 @@ python train_ssl.py --help
 python train.py --help
 ```
 
-
-
 ##### This repository will be updated gradually.
 
-##### From JiaJie You(College of Computer Science and Engineering, Guilin University of Technology, Guilin 541004, China).
+
 
 
 
